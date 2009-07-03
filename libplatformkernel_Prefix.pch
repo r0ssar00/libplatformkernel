@@ -1,0 +1,6 @@
+//
+// Prefix header for all source files of the 'libtagkernel' target in the 'libtagkernel' project.
+//
+
+
+#include <iostream>
